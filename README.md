@@ -1,3 +1,58 @@
+# 🌤️ Weather App
+
+A web application to check the current weather of any city around the world. Built with Next.js and Tailwind CSS.
+
+## ✨ Features
+
+- 🔍 City search with autocomplete
+- 🌍 Worldwide city support
+- 🌡️  Real-time temperature display
+- 🎨 Modern interface with visual effects
+- 📱  Responsive design
+- ⚡ Live weather updates
+- 🎯 Accurate forecasts
+
+## 🛠️ Technologies Used
+
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
+- [Open-Meteo API](https://open-meteo.com/) - Weather API
+- [React](https://reactjs.org/) - JavaScript library
+- [SVG](https://developer.mozilla.org/es/docs/Web/SVG) - Scalable Vector Graphics
+
+## 🚀 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/tu-usuario/weather-app.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd weather-app
+```
+
+3. Install dependencies:
+```bash
+npm install
+```
+
+4. Start the development server:
+```bash
+npm run dev
+```
+
+5. Open http://localhost:3000 in your browser.
+
+This project uses the following APIs:
+
+- Geocodificación: `https://geocoding-api.open-meteo.com/v1/search`
+- Weather: `https://api.open-meteo.com/v1/forecast`
+
+No API key configuration required.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 # 🌤️ Aplicación del Clima
 
 Una aplicación web para consultar el clima actual de cualquier ciudad del mundo. Desarrollada con Next.js y Tailwind CSS.
